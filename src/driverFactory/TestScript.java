@@ -44,13 +44,19 @@ public void startTest() throws Throwable
 		}else
 		{
 			xl.setCellData(TCsheet, i, 9, "Fail", outputpath);
-		}
-        
-        
-        
-        
-		
-	}
+		}	
+	}}
+	
+public static void add()
+{
+	int a = 100,b=200,c;
+	c=a+b;
+	System.out.println(c);
+	
+	
+}
+	
+	
 	
 	
 }
@@ -59,4 +65,4 @@ public void startTest() throws Throwable
 	
 	
 
-}
+
